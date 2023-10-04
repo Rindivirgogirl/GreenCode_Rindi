@@ -14,6 +14,10 @@ let tanpatipedata= 8===2
 let tidaksamadengan= 4 != 2
 //init perbandingan tidak sama dengan sama dengan//
 let tidaksamadengansamadengan= 3 !== 1
+//init perbandingan ternary operator//
+let mahasiswa= false
+mahasiswa?console.log("akumahasiswa") : console.log("akubukanmahasiswa")
+
 
 console.log(perbandingan)
 console.log(lebihkecil)
